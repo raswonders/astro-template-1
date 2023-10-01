@@ -3,9 +3,6 @@ dist/
 # generated types
 .astro/
 
-# ignore webstorms project files
-.idea/
-
 # dependencies
 node_modules/
 
